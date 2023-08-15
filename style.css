@@ -1,0 +1,96 @@
+.container {
+  padding: 20px;
+}
+.container .Text_head {
+  color: #5555ff;
+  font-weight: 200;
+}
+.container .Text_body {
+  color: #5555ff;
+  font-weight: 500;
+}
+.container .Emp_heading_1 {
+  font-size: 22px;
+  font-weight: 500;
+}
+.container .employee_name {
+  font-size: 25px;
+}
+.container .span_textarea1 {
+  display: inline-block;
+  border-radius: 10px;
+  background: #cffff9;
+  height: 30px;
+  width: 50%;
+}
+.container .span_textarea1 .designation_txt {
+  font-size: 17px;
+  font-weight: 500;
+  color: #5fc2ff;
+}
+.container .span_textarea0 {
+  display: inline-block;
+  padding: 10px;
+  border-radius: 10px;
+  background: #e7e7ff;
+  width: 100%;
+  margin-top: 20px;
+}
+.container .span_textarea3 {
+  display: inline-block;
+  padding: 10px;
+  border-radius: 10px;
+  width: 100%;
+  margin-top: 20px;
+  background: #e7e7ff;
+}
+.container .detailsrow {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+.container .detailsrow .employeedetails_col1 {
+  padding: 20px;
+  border: 1px solid #ccc;
+  margin-bottom: 500px;
+  border-radius: 5%;
+}
+.container .detailsrow .employeedetails_col1 .Employee_profilecard {
+  text-align: center;
+}
+.container .detailsrow .employeedetails_col1 .Employee_profilecard .employee_Image {
+  margin-bottom: 10px;
+  border-radius: 5%;
+  width: 350px;
+  height: 280px;
+}
+.container .detailsrow .employeedetails_col2 {
+  padding: 20px;
+}
+.container .detailsrow .employeedetails_col2 .Personaldetails {
+  padding: 20px;
+  padding-bottom: 40px;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+.container .detailsrow .educationaldetails {
+  padding: 20px;
+  padding-bottom: 40px;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  margin-top: 30px;
+}
+.container .detailsrow .Emp_heading_2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  font-weight: 500;
+}
+.container .detailsrow .span_textarea2 {
+  display: inline-block;
+  padding: 10px;
+  border-radius: 10px;
+  width: 100%;
+  margin-top: 20px;
+  background: #e7e7ff;
+}
+
+/*# sourceMappingURL=style.css.map */

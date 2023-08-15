@@ -1,0 +1,122 @@
+.container {
+    // text-align: center;
+    padding: 20px;
+    .Text_head{
+      color:#5555ff;
+      font-weight:200;
+    }
+    .Text_body{
+      color:#5555ff;
+      font-weight: 500;
+    }
+    .Emp_heading_1 {
+      font-size: 22px;
+      font-weight: 500;
+    }
+    .employee_name{
+        font-size: 25px;
+    }
+    .span_textarea1{
+        display: inline-block;
+        // padding: 10px;
+        // border: 2px solid #ccc;
+        border-radius: 10px;
+        background: #cffff9;
+        height: 30px;
+        width: 50%; // You can adjust the width percentage         
+        // font-weight: bold; 
+        .designation_txt{
+          font-size: 17px;
+          font-weight: 500;
+          color: #5fc2ff;
+        }
+    }
+    .span_textarea0{
+        display: inline-block;
+        padding: 10px;    
+        border-radius: 10px;
+        background: #e7e7ff;
+        width: 100%; 
+        margin-top: 20px;            
+    }
+    
+    .span_textarea3{
+        display: inline-block;
+        padding: 10px;
+        // border: 2px solid #ccc;
+        border-radius: 10px;
+        width: 100%; // You can adjust the width percentage         
+        //font-weight: bold;
+        margin-top: 20px;
+        background: #e7e7ff;
+    }   
+    .detailsrow {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: 20px;
+      
+      .employeedetails_col1{
+        padding: 20px;
+        border: 1px solid #ccc;
+        //box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);     
+        margin-bottom: 500px;//new
+        border-radius: 5%; 
+    
+      .Employee_profilecard {
+        text-align: center;
+
+        
+        .employee_Image {
+          margin-bottom: 10px;
+          border-radius: 5%;
+          width:350px; 
+          height:280px; 
+        }
+      }
+    }
+      .employeedetails_col2 {
+        padding: 20px;
+        
+       // border: 1px solid #ccc;
+
+
+        .Personaldetails{
+            padding: 20px;
+            padding-bottom: 40px;
+        //border: 1px solid #ccc;
+        box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);       
+        }
+        }
+        .educationaldetails{
+        padding: 20px;
+        padding-bottom: 40px;
+        //border: 1px solid #ccc;
+        box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+        margin-top: 30px;
+        }
+        .Emp_heading_2 {
+          font-size: 20px;  
+          // font-weight: bold;
+          margin-bottom: 10px;
+          font-weight: 500;
+        }
+        
+        .span_textarea2
+         {          
+            display: inline-block;
+            padding: 10px;
+            // border: 2px solid #ccc;
+            border-radius: 10px;
+            width: 100%; // You can adjust the width percentage         
+            // font-weight: bold;
+            margin-top: 20px;
+            background: #e7e7ff;
+
+        
+        }
+
+      }
+    }
+  
+  
